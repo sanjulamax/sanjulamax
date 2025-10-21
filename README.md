@@ -157,9 +157,9 @@ Excited to network with like-minded innovators. Reach out for tech talks, projec
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
-![Footer Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=FF4500&center=true&vCenter=true&repeat=true&random=false&width=500&lines=Thanks+for+visiting!+⭐+a+repo+if+inspired.;Code+with+passion,+innovate+with+purpose.🚀)
-
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=FF4500&center=true&vCenter=true&repeat=true&random=false&width=500&lines=Thanks+for+visiting!+⭐+a+repo+if+inspired.;Code+with+passion,+innovate+with+purpose.🚀">
+</div>
 
 
 
