@@ -90,5 +90,5 @@ Let's build something incredible together!
 
 ---
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=25C578&center=true&vCenter=true&width=435&lines=Innovate.+Code.+Scale.;bBuilding+The+Future%3A+One+Commit+At+A+Time." alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=25C578&center=true&vCenter=true&width=435&lines=Innovate.+Code.+Scale.;bbBuilding+The+Future%3A+One+Commit+At+A+Time." alt="Typing SVG">
 </div>
