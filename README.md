@@ -51,7 +51,7 @@ I thrive on turning complex problems into elegant code. Here's my arsenal, showc
   <img src="https://skillicons.dev/icons?i=js,python,java,ts,c,react,nextjs,expressjs,tailwind,react,mongodb,mysql,postgres,github,prisma,vercel,firebase,git" alt="Skills Icons" />
 </p>
 
-*(Icons powered by [skillicons.dev](https://skillicons.dev) for a clean, animated feel on hover in supported viewers.)*
+
 
 ---
 
@@ -109,4 +109,4 @@ Let's build something amazing together! Feel free to reach out for discussions o
 
 ---
 
-*Thanks for visiting! If this README inspired you, star a repo or drop a follow. 🚀 Crafted with ❤️ using Markdown magic.*
+*Thanks for visiting! If this README inspired you, star a repo or drop a follow.  ❤️ *
