@@ -1,11 +1,21 @@
 # Hi there, I'm Savindu Abeywickrama 👋
 
 ### Full-Stack Developer | Mobile Enthusiast | Innovator Turning Ideas into Scalable Digital Realities
+<br>
+<div align="start">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A66C2&width=600&lines=Passionate+Software+Engineer;Building+Scalable+Web+%26+Mobile+Apps;From+Pixels+to+Pipelines+🚀" alt="Animated Banner">
+</div>
 
-![Animated Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Passionate+Software+Engineer;Building+Scalable+Web+%26+Mobile+Apps;From+Pixels+to+Pipelines+🚀)
+<br>
+<div align="start">
+<img src="https://github-profile-trophy.vercel.app/?username=sanjulamax&theme=radical&no-frame=true&column=8&margin-w=15&margin-h=15&Center=true)](https://github.com/ryo-ma/github-profile-trophy" >
+</div>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanjulamax&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-![Profile Views](https://komarev.com/ghpvc/?username=sanjulamax&label=Profile%20Views&color=brightgreen&style=flat-square)
+<br>
+<div align="start">
+<img src="https://komarev.com/ghpvc/?username=sanjulamax&label=Profile%20Views&color=brightgreen&style=flat-square&Center=true" >
+</div>
+<br>
 
 A strong passion for software engineering is demonstrated by a Bachelor of Software Engineering (BSE Honours) student at the Open University of Sri Lanka, with a specialization in full-stack development. Expertise is shown in JavaScript, React, Next.js, and Node.js for building scalable web applications, while proficiency in mobile development is exhibited through the use of React Native. Database management skills are reflected through experience with both SQL (MySQL) and NoSQL (MongoDB), along with the utilization of modern tools such as Prisma ORM, Git, GitHub, and Firebase. A solid foundation in software architecture is intended to be applied toward the development of robust and efficient enterprise solutions.
 
@@ -39,7 +49,7 @@ A platform for online movie streaming where users can create accounts, manage fa
 
 - **Technologies**: React, Tailwind CSS, Firebase, APIs
 - **Live Demo**: [moviecloud-beta.vercel.app](https://moviecloud-beta.vercel.app/)
-
+    
 ---
 
 ## 🚀 Skills & Tech Stack
@@ -87,12 +97,12 @@ Empowering innovation with a versatile toolkit. Hover over badges for tooltips, 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
+<br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,java,ts,c,react,nextjs,expressjs,tailwind,nodejs,mongodb,mysql,postgres,github,prisma,vercel,firebase,git" alt="Skills Icons" />
 </p>
 
-*(Dynamic icons from [skillicons.dev](https://skillicons.dev) – hover for animations in supported browsers!)*
+
 
 ---
 
@@ -109,7 +119,9 @@ Track my coding journey with these live-updating visuals – from streaks to lan
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjulamax&show_icons=true&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjulamax&theme=radical)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjulamax&theme=radical" alt="Contribution Graph">
+</div>
 
 These stats showcase my commitment: consistent contributions, diverse tech stacks, and a focus on quality code. Every pixel here represents progress toward excellence!
 
@@ -119,9 +131,10 @@ These stats showcase my commitment: consistent contributions, diverse tech stack
 
 - **Full-Stack Projects**: Developed high-performance apps with Next.js, React Native, and cloud deployments on Vercel/Firebase.
 - **Database Optimization**: Engineered efficient schemas and queries in MongoDB/MySQL for seamless data handling.
-- **Open-Source Impact**: Contributed to repositories solving real-world challenges.
 - **Academic Excellence**: Pursuing BSE Honours while mastering type-safe development with Prisma and ZOD.
-- **Certifications**: Python For Beginners (University of Moratuwa), React Valley, NodeJS, Front-End Web Design, Web Design for Beginners.
+- **Certifications**: HackerRank React (Basic) - HackerRank , React Valley - codedex, Python For Beginners - University of Moratuwa),  Back-End Web Programming - University of Moratuwa, Front-End Web Development - University of Moratuwa
+, Web Design for Beginners - University of Moratuwa.
+<br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanjulamax&theme=juicyfresh&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
@@ -147,4 +160,6 @@ Excited to network with like-minded innovators. Reach out for tech talks, projec
 
 ![Footer Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=FF4500&center=true&vCenter=true&repeat=true&random=false&width=500&lines=Thanks+for+visiting!+⭐+a+repo+if+inspired.;Code+with+passion,+innovate+with+purpose.🚀)
 
-*Crafted with ❤️ using Markdown, shields.io, and dynamic SVGs for a visually engaging experience.*
+
+
+
