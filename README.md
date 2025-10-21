@@ -34,9 +34,9 @@ I thrive on turning complex problems into elegant code. Here's my arsenal, showc
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 
 ### Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) (MySQL)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![NeonDB](https://img.shields.io/badge/NeonDB-00E676?style=for-the-badge&logo=postgresql&logoColor=white) (Serverless Postgres)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E676?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 ### Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
