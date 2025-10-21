@@ -7,14 +7,38 @@
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanjulamax&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjulamax&label=Profile%20Views&color=brightgreen&style=flat-square)
 
-I'm a Bachelor of Software Engineering (BSE Honours) student at the Open University of Sri Lanka, with a specialization in full-stack development. Driven by a strong passion for software engineering, I leverage JavaScript, React, Next.js, and Node.js to build scalable web applications. My expertise extends to mobile development with React Native, and I handle databases proficiently using SQL (MySQL), NoSQL (MongoDB), and tools like Prisma ORM, Git, GitHub, and Firebase. With a solid foundation in software architecture, I'm committed to developing robust, efficient enterprise solutions that spark innovation.
+A strong passion for software engineering is demonstrated by a Bachelor of Software Engineering (BSE Honours) student at the Open University of Sri Lanka, with a specialization in full-stack development. Expertise is shown in JavaScript, React, Next.js, and Node.js for building scalable web applications, while proficiency in mobile development is exhibited through the use of React Native. Database management skills are reflected through experience with both SQL (MySQL) and NoSQL (MongoDB), along with the utilization of modern tools such as Prisma ORM, Git, GitHub, and Firebase. A solid foundation in software architecture is intended to be applied toward the development of robust and efficient enterprise solutions.
 
 - 🌱 Currently exploring advanced cloud architectures and AI integrations.
 - 💼 Seeking opportunities at top-tier software companies – let's connect!
-- 👨‍💻 Portfolio: [sanjulamax.github.io/My_Portfolio/](https://sanjulamax.github.io/My_Portfolio/)
+- 👨‍💻 Portfolio: [savinduabeywickrama.vercel.app](https://savinduabeywickrama.vercel.app/)
 - 📫 Email: **sanjulasavindu@gmail.com**
 
 ![Snake Animation](https://github.com/sanjulamax/sanjulamax/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌟 Featured Projects
+
+Dive into my portfolio highlights! Each project showcases my skills in action. Visit my [full portfolio](https://savinduabeywickrama.vercel.app/) for more details.
+
+### 1. Developers Q&A Platform
+A platform to discuss developers Q&A with the world developers community.
+
+- **Technologies**: Next.js, Tailwind CSS, ShadCN, NeonDB, Clerk, Prisma ORM
+- **Live Demo**: [devstack-iota.vercel.app](https://devstack-iota.vercel.app/)
+
+### 2. Blogging Platform
+A special social media-like blogging platform to share ideas, innovative things, or tech stacks as posts.
+
+- **Technologies**: Next.js, Tailwind CSS, Sanity, Auth.js, Cloudinary
+- **Live Demo**: [bitstackpro.vercel.app](https://bitstackpro.vercel.app/)
+
+### 3. Online Movie Streaming Platform
+A platform for online movie streaming where users can create accounts, manage favorite movies, and watch them free anytime, anywhere.
+
+- **Technologies**: React, Tailwind CSS, Firebase, APIs
+- **Live Demo**: [moviecloud-beta.vercel.app](https://moviecloud-beta.vercel.app/)
 
 ---
 
@@ -39,6 +63,11 @@ Empowering innovation with a versatile toolkit. Hover over badges for tooltips, 
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth.js" />
+  <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white" alt="ShadCN" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
+  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity" />
+  <img src="https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 </p>
 
 ### Databases
@@ -60,7 +89,7 @@ Empowering innovation with a versatile toolkit. Hover over badges for tooltips, 
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,ts,c,react,nextjs,expressjs,tailwind,nodejs,mongodb,mysql,postgres,github,prisma,vercel,firebase,git&perline=10" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,ts,c,react,nextjs,expressjs,tailwind,nodejs,mongodb,mysql,postgres,github,prisma,vercel,firebase,git" alt="Skills Icons" />
 </p>
 
 *(Dynamic icons from [skillicons.dev](https://skillicons.dev) – hover for animations in supported browsers!)*
@@ -92,6 +121,7 @@ These stats showcase my commitment: consistent contributions, diverse tech stack
 - **Database Optimization**: Engineered efficient schemas and queries in MongoDB/MySQL for seamless data handling.
 - **Open-Source Impact**: Contributed to repositories solving real-world challenges.
 - **Academic Excellence**: Pursuing BSE Honours while mastering type-safe development with Prisma and ZOD.
+- **Certifications**: Python For Beginners (University of Moratuwa), React Valley, NodeJS, Front-End Web Design, Web Design for Beginners.
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanjulamax&theme=juicyfresh&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
@@ -110,7 +140,7 @@ Excited to network with like-minded innovators. Reach out for tech talks, projec
   <a href="mailto:sanjulasavindu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://sanjulamax.github.io/My_Portfolio/" target="_blank">
+  <a href="https://savinduabeywickrama.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
