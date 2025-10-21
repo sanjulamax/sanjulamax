@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Mobile Enthusiast | Innovator Turning Ideas into Scalable Digital Realities
 <br>
-<div align="start">
+<div align="start"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0A66C2&width=600&lines=Passionate+Software+Engineer;Building+Scalable+Web+%26+Mobile+Apps;From+Pixels+to+Pipelines+🚀" alt="Animated Banner">
 </div>
 
