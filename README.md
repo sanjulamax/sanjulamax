@@ -54,8 +54,6 @@ A platform for online movie streaming where users can create accounts, manage fa
 
 ## 🚀 Skills & Tech Stack
 
-Empowering innovation with a versatile toolkit. Hover over badges for tooltips, and enjoy the dynamic icons!
-
 ### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
