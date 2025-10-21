@@ -140,7 +140,7 @@ These stats showcase my commitment: consistent contributions, diverse tech stack
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjulamax&theme=juicyfresh&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjulamax&theme=juicyfresh&no-frame=true&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
