@@ -1,77 +1,124 @@
 <div align="center">
-
-# Savindu Abeywickrama
-
-<h2 style="color: #0078D4;">Full-Stack Developer | Next.js & Serverless Enthusiast</h2>
-
-✨ *Crafting high-performance digital experiences from scalable pipelines to intuitive user interfaces.*
-
----
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>
 
-## 💡 Professional Summary
+<h1 align="center">
+Hi 👋, I'm Savindu Abeywickrama
+</h1>
 
-A driven **Software Engineering Honours student** specializing in architecting and building robust, modern applications. My focus is firmly on the **JavaScript/TypeScript ecosystem**, leveraging **Next.js**, **Node.js**, and **serverless patterns** to deliver efficient, enterprise-ready solutions. I bridge the gap between complex backend logic and seamless front-end execution.
+<h3 align="center">
+A passionate Full-Stack Developer crafting innovative digital experiences from pixels to pipelines.
+</h3>
 
----
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=sanjulamax" alt="sanjulamax" />
+</a>
+</p>
 
-## 🚀 Core Technology Stack
+👨‍💻 About Me
 
-This section highlights the core technologies you master, prioritized for modern full-stack roles.
+I am a Bachelor of Software Engineering (BSE Honours) student at the Open University of Sri Lanka with a strong passion for full-stack development. My expertise lies in building scalable web and mobile applications using modern technologies like JavaScript, React, Next.js, and React Native. I have hands-on experience with both SQL and NoSQL databases and a solid understanding of software architecture, which I apply to create robust and efficient enterprise solutions.
 
-<div align="center">
+👨‍💻 All of my projects are available at https://sanjulamax.github.io/My_Portfolio/
 
-### **Full-Stack Pillars**
-| **Frontend/Meta-Framework** | **Backend/Server** | **Databases & ORM** |
-| :---: | :---: | :---: |
-| `Next.js` (Primary) | `Node.js` / `Express` | `MongoDB` (NoSQL) |
-| `React` | `TypeScript` (Primary) | `PostgreSQL` / `MySQL` (SQL) |
-| `Tailwind CSS` | `Serverless Functions` | `Prisma ORM` / `Mongoose` |
+📫 How to reach me: sanjulasavindu@gmail.com
 
-</div>
+🛠️ Languages and Tools
 
-### **Languages & Tooling**
+Programming Languages
 
-| Languages | Ecosystem Tools | Design & CI/CD |
-| :---: | :---: | :---: |
-| `JavaScript` &nbsp; `Python` &nbsp; `Java` &nbsp; `C` | `ZOD` &nbsp; `Postman` | `Git/GitHub` &nbsp; `Vercel` &nbsp; `Figma` |
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
+</p>
 
----
+Frameworks & Libraries
 
-## 📈 Impact & Progression Showcase
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+</a>
+</p>
 
-This section visually quantifies your dedication and progression, acting as a dynamic resume summary.
+Databases
 
-<div align="center">
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=sanjulamax&show_icons=true&locale=en&theme=onedark&hide_border=true&title_color=0078D4&icon_color=0078D4" alt="GitHub Stats" />
-    </p>
-    
-    <h3 style="color: #0078D4;">Commit History & Momentum</h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjulamax&theme=darkgreen&background=0E1117&border_radius=10&mode=compact&show_icons=true" alt="Contribution Streak" />
-    
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjulamax&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true&title_color=0078D4&langs_count=5" alt="Top Languages" />
-    </p>
-    
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=sanjulamax&theme=radical&margin_top=15" alt="GitHub Trophies" />
-    </a>
-</div>
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://neon.tech/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/neon_tech/neon_tech-icon.svg" alt="neon" width="40" height="40"/>
+</a>
+</p>
 
----
+Tools & Platforms
 
-## 🔗 Connect & Explore
+<p align="left">
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+</a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/prisma/prisma-icon.svg" alt="prisma" width="40" height="40"/>
+</a>
+<a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/mongoosejs/mongoosejs-icon.svg" alt="mongoose" width="40" height="40"/>
+</a>
+<a href="https://zod.dev/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/zod/zod-icon.svg" alt="zod" width="40" height="40"/>
+</a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</a>
+</p>
 
-* **Portfolio:** Deep dive into my featured work: [https://sanjulamax.github.io/My_Portfolio/](https://sanjulamax.github.io/My_Portfolio/)
-* **Contact:** Reach out to me at **sanjulasavindu@gmail.com**
+📊 GitHub Stats
 
-<div align="left">
-    <a href="https://www.linkedin.com/in/savindu-abeywickrama-58a828311" target="_blank">
-        <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
-    </a>
-</div>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjulamax&show_icons=true&locale=en" alt="sanjulamax" />
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjulamax&" alt="sanjulamax" />
+</p>
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjulamax&show_icons=true&locale=en&layout=compact" alt="sanjulamax" />
+</p>
 
-<div align="right">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=FFD700&center=true&vCenter=true&width=400&lines=Always+Learning.+Always+Building.;Ready+for+the+Next+Challenge." alt="Typing SVG">
-</div>
+🤝 Connect with Me
+
+<p align="left">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/savindu-abeywickrama-58a828311" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savindu-abeywickrama" height="30" width="40" />
+</a>
+</p>
