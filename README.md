@@ -24,7 +24,7 @@ A strong passion for software engineering is demonstrated by a Bachelor of Softw
 - 👨‍💻 Portfolio: [savinduabeywickrama.vercel.app](https://savinduabeywickrama.vercel.app/)
 - 📫 Email: **sanjulasavindu@gmail.com**
 
-![Snake Animation](https://github.com/sanjulamax/sanjulamax/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
@@ -107,8 +107,10 @@ Empowering innovation with a versatile toolkit. Hover over badges for tooltips, 
 ---
 
 ## 📈 GitHub Stats & Progress
+<br>
 
 Track my coding journey with these live-updating visuals – from streaks to language dominance!
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjulamax&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
@@ -122,6 +124,7 @@ Track my coding journey with these live-updating visuals – from streaks to lan
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjulamax&theme=radical" alt="Contribution Graph">
 </div>
+<br>
 
 These stats showcase my commitment: consistent contributions, diverse tech stacks, and a focus on quality code. Every pixel here represents progress toward excellence!
 
